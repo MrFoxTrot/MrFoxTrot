@@ -34,7 +34,9 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
  **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP          1 hr 19 mins    ██████████████▒░░░░░░░░░░   56.88 % 
+JavaScript   57 mins         ██████████▒░░░░░░░░░░░░░░   41.04 % 
+Python       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 <!--END_SECTION:waka-->
 
