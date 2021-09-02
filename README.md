@@ -34,11 +34,11 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
  **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 51 mins   █████████████████████░░░░   84.25 % 
-Python       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript   12 hrs 53 mins  ██████████████████████░░░   88.30 % 
+Python       1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
