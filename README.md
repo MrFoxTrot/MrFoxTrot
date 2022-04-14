@@ -35,11 +35,11 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 13 mins   █████████████████████░░░░   83.80 %
-YAML         51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       4 hrs 17 mins   ████████████████████▒░░░░   81.14 %
+YAML         51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
