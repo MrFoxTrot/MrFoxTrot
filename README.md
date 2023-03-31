@@ -35,8 +35,8 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
 <!--START_SECTION:waka-->
 
 ```text
-SQL      1 hr 56 mins    █████████████▓░░░░░░░░░░░   55.28 %
-Other    53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
+SQL      1 hr 56 mins    █████████████████░░░░░░░░   67.68 %
+Other    53 mins         ███████▓░░░░░░░░░░░░░░░░░   31.24 %
 ```
 
 <!--END_SECTION:waka-->
