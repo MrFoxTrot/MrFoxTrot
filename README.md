@@ -34,7 +34,7 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
  **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
