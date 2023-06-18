@@ -35,9 +35,9 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
 <!--START_SECTION:waka-->
 
 ```txt
-C#      8 mins          ███████████████████░░░░░░   76.43 %
-Other   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-XAML    0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Other   2 mins          █████████████████▓░░░░░░░   70.04 %
+C#      0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+XAML    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
 ```
 
 <!--END_SECTION:waka-->
