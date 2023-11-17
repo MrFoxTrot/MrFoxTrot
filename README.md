@@ -35,8 +35,7 @@ Hi, I'm [Roma](https://t.me/MrF0xTr0t), a self-taught Backend developer from Rus
 <!--START_SECTION:waka-->
 
 ```txt
-Other   17 mins         █████████████████████████   99.56 %
-Ruby    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Ruby   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
